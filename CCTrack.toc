@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: CCTrack
+## Notes: Tracks your own crowd control, silences/interrupts and DoTs/debuffs (Polymorph, Counterspell, Corruption, ...) on multiple targets.
+## Version: 0.1
+## SavedVariablesPerCharacter: CCTrackDB
+
+CCTrack.lua

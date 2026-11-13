@@ -1,0 +1,13 @@
+package-as: CCTrack
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - README.md
+  - CHANGELOG.md
+  - LICENSE
+  - screenshots
+  - cctrack_logo.png
+  - cctrack_logo_400.png
